@@ -2,7 +2,7 @@
 La mia [configurazione proxmox](https://github.com/tamet83/proxmox/wiki).
 
 Questa non vuole essere una vera e propria guida, bensì un libro degli appunti dove indicare porzioni di codice utilizzate per realizzare la mia configurazione di Proxmox.
-Nulla è farina del mio sacco, ringrazio per questo la bella comunità che ruota intorno a [Saggiamente](https://www.saggiamente.com/) ed in particolare [Daxda](https://github.com/daxda) che mi ha supportato in moltissimi dei passaggi che cercherò di riportare in queste pagine.
+Nulla è farina del mio sacco, ringrazio per questo la bella comunità che ruota intorno a [Saggiamente](https://www.saggiamente.com/) ed in particolare [Daxda](https://github.com/daxda) e [@gmcinalli](https://github.com/gmcinalli) che mi hanno supportato in moltissimi dei passaggi che cercherò di riportare in queste pagine.
 
 L'hardware che utilizzo è il seguente:
 * [Intel Nuc Kit nuc8i3beh](https://amzn.to/2P3986J)
