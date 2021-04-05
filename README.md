@@ -19,3 +19,4 @@ Per cercare di fare un po' di ordine, ho pensato di trattare le diverse tematich
 * [Automatizzare accensione e spegnimento del NAS in base allo stato di un UPS](https://github.com/tamet83/proxmox/wiki/5.-Automatizzare-l%E2%80%99accensione-e-lo-spegnimento-di-un-NAS-sulla-base-dello-stato-di-un-UPS)
 * [Come montare una cartella di rete in un container Linux sotto Proxmox](https://github.com/tamet83/proxmox/wiki/6.-Come-montare-una-cartella-di-rete-in-un-container-Linux-sotto-Proxmox)
 * [Proxmox installare Sonarr, Radarr, Jackett, Transmission e Flood](https://github.com/tamet83/proxmox/wiki/7.-Proxmox-installare-Sonarr,-Radarr,-Jackett,-Transmission-e-Flood)
+* [Proton VPN](https://github.com/tamet83/proxmox/wiki/Proton-VPN-CLI)
